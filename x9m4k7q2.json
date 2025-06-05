@@ -1,0 +1,1424 @@
+{
+  "lastUpdated": "2025-06-05T08:36:13.853Z",
+  "totalThreads": 185,
+  "updateType": "secure-safe-update",
+  "threads": [
+    {
+      "threadId": "1380035884262363296",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7732"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.903Z"
+    },
+    {
+      "threadId": "1379781407630692422",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-1385"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1379780635912310866",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-1378"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1378922443779084319",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6245"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1378921168840560671",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7813"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1378914157734269019",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7803"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377887723616211004",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7729"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377820460204691517",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7746"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377815905299599460",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7770"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377815687728337148",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7740"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377805525613412456",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7792"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377550478858129478",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7727"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377519667475910727",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7760"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377518472304656445",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7742"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377514527041654825",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7764"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377510545170628659",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7788"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377140709097734155",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7778"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377137554574278789",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7782"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1377104102336495646",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7780"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1376817165566742548",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7757"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1376740586685599805",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1376736508484128799",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7650"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1376445058257129482",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7744"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1376348678159335624",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-4694"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1374977823596351509",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7734"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1374606646772502528",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7733"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1374599374880899174",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6243"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1373896384557875260",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-5956"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1373852380185231500",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7648"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1373851959181836330",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7649"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1373831910463242272",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7624"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1372792860302377000",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7705"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1372459380766806067",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7710"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1372382837528858755",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7688"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1372074133856325642",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7702"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1372016411701940354",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7691"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371727383056355408",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7685"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371718526175416320",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7696"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371655271746764890",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7689"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371654687866093643",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7678"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371637255067664464",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7667"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371399155636899911",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7683"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371310430877913098",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7687"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371309879850958940",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-4931"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1371289848543182899",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7654"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1370274379547545620",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7570"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1370190824238874624",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6506"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1369924478984917032",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7677"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1369910636305322014",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1369839578013503498",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7240"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364090797817073754",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6249"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361966265299763250",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6384"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361144597983789238",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6113"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357624597691895828",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6522"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1356805050827149353",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6978"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1352190386612998165",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPSAST-3118"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1351021313615073322",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6916"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364403652013330462",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7517"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1366951253376241806",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1365188757216690186",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6474"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1366657256573112440",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7644"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364821363398807593",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7598"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1270231263789322333",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-4142"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357221362397352037",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7390"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1360060185455890443",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7053"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364423339967512697",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7596"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357631575130374257",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-5983"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357513782129201342",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6388"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1363750061250580700",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-5343"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364848329577463839",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7600"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364770450235981834",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7614"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1363794467710304337",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7544"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1324607901867704390",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-5554"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362656165472894976",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-1234"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1363696627033837578",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7527"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364763546558271610",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7608"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1359352722801037422",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7397"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364758083007676486",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7391"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361921794872840342",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7524"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364745725317222400",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7405"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357506169576489071",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6724"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361118122576445482",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1344101209761513595",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6907"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364474504922927185",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7599"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1364130480458563674",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7561"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1363699000816959689",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7532"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361247086556872868",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7515"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1344851919356825672",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-5875"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1363673189615538256",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7520"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362644548102262944",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7529"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362673934394331167",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362642061177786419",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7537"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362607220575178852",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7505"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362584137424306426",
+      "channelId": "1159409443390357554",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1360137059372896334",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7467"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1362018269241933996",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7411"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361962542078890156",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7520"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361966879509446737",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6383"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1361947785187823667",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7527"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1356793832888598720",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6995"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1360112698494554284",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7472"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1359698734631485621",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7291"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1359707430107480155",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7231"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1359704162555662386",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7389"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1348910624184467456",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-6995"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1358975757879349400",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7399"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1357531361644380433",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7399"
+      ],
+      "lastUpdated": "2025-06-05T08:36:12.905Z"
+    },
+    {
+      "threadId": "1380008462422900797",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-971"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.330Z"
+    },
+    {
+      "threadId": "1379688565927317564",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-969"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.330Z"
+    },
+    {
+      "threadId": "1379635599253835816",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-814"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.330Z"
+    },
+    {
+      "threadId": "1375339405195218984",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-925"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.330Z"
+    },
+    {
+      "threadId": "1374237507499200563",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-934"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1374173029864706068",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-948"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1371296592434298921",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1358617432033591416",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1352500982633861170",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1362238548417314908",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-954"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1360063189286391959",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1350010660704223243",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1347351185954177248",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1346395783183728692",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1342286165134282792",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-923"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1344916398366785588",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-926"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1340986312710295573",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1342022617967755285",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-863"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1341984457917468722",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-914"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1341960768328957985",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-916"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1329351333421121538",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-820"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1341665712464199690",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-813"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1340933525943095348",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1339052480750948463",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1337243884279037952",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-874"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1329253200578220063",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1328218128672489514",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-870"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1326352608708923514",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-849"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1325632130147029032",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-873"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1323164833213976689",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1321732273778982993",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1318034963492245514",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-146"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1316668286062297188",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1316573657509789737",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1315958931654311947",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1306130482152476683",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-128"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1312944239990276187",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-119"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1311603876385783871",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1310771862116241489",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-824"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1300613560115920916",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1298160818268934144",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-777"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1298143304332083230",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPC-776"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1298171673043927081",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-772"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1298184459199320084",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-404"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1297816993403244585",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1298082872577626132",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1297743732866678895",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1297730473673621539",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-759"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1297727283829932093",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-746"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1288038561169408020",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-666"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1288719327595597864",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-724",
+        "SPCN-725"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1295284158087696384",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-603"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1293812918290350080",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-666"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1278618178464780412",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-65"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1278588550606229606",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-92"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1278217615352926208",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCG-81"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1278180294020825088",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPGC-26"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1275259433517187190",
+      "channelId": "1251041916854861855",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.331Z"
+    },
+    {
+      "threadId": "1362652281375559820",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-218"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.852Z"
+    },
+    {
+      "threadId": "1362353169769955399",
+      "channelId": "1318376369327177748",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.852Z"
+    },
+    {
+      "threadId": "1361247724376424548",
+      "channelId": "1318376369327177748",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.852Z"
+    },
+    {
+      "threadId": "1353966600528855123",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-184"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.852Z"
+    },
+    {
+      "threadId": "1361853788109148491",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-213"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1361213921603748010",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-189"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1356056839137267813",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-205"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1347089349187207238",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-180"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1347108474890489866",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-186"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1351816657151983638",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-201"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1349638570125692948",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-182"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1349257418974167073",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-188"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1346641697328595025",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-164"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1349989470698737666",
+      "channelId": "1318376369327177748",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1349538864988950528",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-178"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1354253247153700964",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-186"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1318839872991264838",
+      "channelId": "1318376369327177748",
+      "issueKeys": [],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1318733099919605881",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-155"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1318459197523886080",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-153"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    },
+    {
+      "threadId": "1318378634087501895",
+      "channelId": "1318376369327177748",
+      "issueKeys": [
+        "SPGC-93"
+      ],
+      "lastUpdated": "2025-06-05T08:36:13.853Z"
+    }
+  ]
+}
