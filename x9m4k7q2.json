@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-06-09T10:10:59.212+09:00",
-  "totalThreads": 155,
+  "lastUpdated": "2025-06-09T15:34:39.029+09:00",
+  "totalThreads": 157,
   "threads": [
     {
       "threadId": "1380035884262363296",
@@ -1086,6 +1086,20 @@
       "channelId": "1159409443390357554",
       "issueKeys": [
         "SPARROW-7554"
+      ]
+    },
+    {
+      "threadId": "1381445087749341215",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-957"
+      ]
+    },
+    {
+      "threadId": "1381517079513137152",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-958"
       ]
     }
   ]
