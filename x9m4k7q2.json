@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-06-09T15:34:54.301+09:00",
-  "totalThreads": 157,
+  "lastUpdated": "2025-06-10T16:37:46.852+09:00",
+  "totalThreads": 158,
   "threads": [
     {
       "threadId": "1380035884262363296",
@@ -1100,6 +1100,13 @@
       "channelId": "1251041916854861855",
       "issueKeys": [
         "SPCN-958"
+      ]
+    },
+    {
+      "threadId": "1381897910580543629",
+      "channelId": "1251041916854861855",
+      "issueKeys": [
+        "SPCN-956"
       ]
     }
   ]
