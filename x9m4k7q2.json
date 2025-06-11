@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-06-11T10:12:56.178+09:00",
-  "totalThreads": 159,
+  "lastUpdated": "2025-06-11T15:28:02.569+09:00",
+  "totalThreads": 160,
   "threads": [
     {
       "threadId": "1380035884262363296",
@@ -1114,6 +1114,13 @@
       "channelId": "1251041916854861855",
       "issueKeys": [
         "SPCN-975"
+      ]
+    },
+    {
+      "threadId": "1382244971360551033",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7855"
       ]
     }
   ]
