@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-06-16T10:42:11.599+09:00",
-  "totalThreads": 164,
+  "lastUpdated": "2025-06-16T10:56:59.620+09:00",
+  "totalThreads": 165,
   "threads": [
     {
       "threadId": "1380035884262363296",
@@ -1149,6 +1149,13 @@
       "channelId": "1159409443390357554",
       "issueKeys": [
         "SPARROW-7873"
+      ]
+    },
+    {
+      "threadId": "1383988701402628126",
+      "channelId": "1159409443390357554",
+      "issueKeys": [
+        "SPARROW-7845"
       ]
     }
   ]
